@@ -1,4 +1,4 @@
-FROM node:lts-alpine3.16
+FROM node:18
 
 RUN mkdir -p /home/app
 
